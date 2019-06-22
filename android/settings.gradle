@@ -1,0 +1,3 @@
+rootProject.name = 'share_note_5029'
+
+include ':app'
